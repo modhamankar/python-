@@ -1,2 +1,2 @@
-from tkinter importy *
+from tkinter import *
 root=Tk()
